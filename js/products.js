@@ -38,7 +38,7 @@ var base_product = [
 	new Product(1, "Finite-state machine minimization calculator", "dfsmmc_logo", "https://ausf-software.github.io/dfsmmc/"),
 	new Product(1, "Hamming Code Calculator", "hcc_logo", "https://ausf-software.github.io/hcc/"),
 	new Product(2, "Markov Algorithm", "hcc_logo", "https://ausf-software.github.io/markov-algorithm/"),
-	new Product(2, "Turing machine emulator", "hcc_logo", "https://ausf-software.github.io/turing-machine/"),
+	new Product(2, "Multi tape Turing machine emulator", "hcc_logo", "https://ausf-software.github.io/multitape-turing/"),
 	new Product(2, "Post machine emulator", "hcc_logo", "https://ausf-software.github.io/post-machine/"),
 ];
 setProducts();
